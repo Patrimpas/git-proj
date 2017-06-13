@@ -9,6 +9,8 @@ app.set('view engine', 'handlebars');
 
 app.set('port', process.env.PORT || 3000);
 
+var var1 = "master";
+
 var var1 = "new_f";
 
 var fortunes = [
