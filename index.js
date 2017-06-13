@@ -9,6 +9,8 @@ app.set('view engine', 'handlebars');
 
 app.set('port', process.env.PORT || 3000);
 
+var var1 = "master";
+
 var fortunes = [
     "Победи свои страхи, или они победят тебя.",
     "Рекам нужны истоки.",
